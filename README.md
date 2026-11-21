@@ -55,3 +55,13 @@ ecommerce-sales-analytics/
     ├── 06_stored_functions.sql
     ├── 07_indexes_optimization.sql
     └── 08_data_integrity_testing.sql
+
+
+
+    ## SQL Learning & Project Experience
+
+I have successfully completed SQL learning from beginner to advanced level using MySQL. Throughout this learning journey, I gained practical knowledge of database design, data manipulation, joins, subqueries, aggregate functions, constraints, transactions, views, stored procedures, functions, triggers, indexing, and query optimization.
+
+I applied these concepts by building an **E-commerce Sales Analytics Project**, where I designed a relational database, created tables and relationships, inserted sample data, and performed basic and advanced sales analytics. I implemented views, stored procedures, functions, indexing, and data integrity testing to improve database functionality and performance.
+
+This project helped me strengthen my SQL knowledge through hands-on implementation and develop practical database management and data analysis skills. The complete project, including SQL scripts, ER diagram, screenshots, and MySQL Workbench model, is available in this repository.
