@@ -1,0 +1,21 @@
+# MySQL files
+*.sql~
+*.mysql
+
+# Environment files
+.env
+.env.*
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
